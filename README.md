@@ -121,3 +121,15 @@ It solves a real-world problem: **finding exact explanations inside hours of vid
 
 ---
 
+## 👨‍💻 Author
+
+**Satyam Gupta**
+
+B.Tech, Electronics & Communication Engineering
+MANIT Bhopal
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
