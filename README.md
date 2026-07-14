@@ -109,7 +109,8 @@ Users can:
 
 - Vector databases for large scale model
 - Web-based UI for Respective Client
-- Multi-disciplinary Course support 
+- Multi-disciplinary Course support
+- Retrieval quality improvements using similarity score thresholds
 
 ---
 
